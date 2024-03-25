@@ -176,4 +176,12 @@ Adel Sabic:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:adel.sabic@networg.com"
-
+      
+Jan Losenicky:
+  name: "Jan Losenicky"
+  bio: "Software Engineer"
+  avatar: "/assets/images/jan.losenicky.png"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jan-losenick%C3%BD-a848b5238/"
